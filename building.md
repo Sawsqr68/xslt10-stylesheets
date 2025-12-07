@@ -33,3 +33,4 @@ Run
 
   `make dist`
 
+make 
